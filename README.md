@@ -8,4 +8,6 @@ Starting with React.createElement, to show what is happending in the most basic 
 ## Run 
 ```
 npm run dev
-```# adopt-me
+``` 
+## Check for errors with ESlint
+``` npm run lint```
