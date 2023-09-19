@@ -11,3 +11,10 @@ npm run dev
 ``` 
 ## Check for errors with ESlint
 ``` npm run lint```
+
+## Dependencies installation include:
+``` 
+npm install react-router-dom 
+
+npm i @tanstack/react-query
+```
